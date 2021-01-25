@@ -1,2 +1,2 @@
 # BasicTwitterBot
-Written in Python to insult other Barstool 6A Twitter accounts when they post anything.
+Written in Python to reply to other Twitter accounts from a random set.
